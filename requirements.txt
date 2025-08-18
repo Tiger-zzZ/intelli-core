@@ -1,0 +1,22 @@
+# Core LLM Framework
+langchain
+langchain-openai
+
+# Vector Store
+chromadb
+
+# Document Loaders
+langchain-community
+pypdf
+
+# UI
+streamlit
+
+# Environment Variables
+python-dotenv
+
+# Tools
+google-api-python-client
+
+# Multi-Agent
+langgraph
